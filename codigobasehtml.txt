@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Poritfólio Kleo Silva </title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Anton&family=Poppins:wght@300&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <div class="container">
+    <div class="profile box">
+      <img class="profile-pic" src="img/perfil.png" alt="Profile">
+      <h1 class="title"> Kleo Silva </h1>
+      <span> Porto Alegre/RS </span>
+      <p> WEB DESIGNER </p>
+
+      <ul class="Redes Sociais">
+          <li> <a href="
+            https://www.facebook.com/kleo.kadinho"><img src="img/facebook.svg" alt="Facebook"></a></li>
+          <li> <a href="https://www.instagram.com/kleo_silva1984/"><img src="img/instagram.svg" alt="Instagram"></a></li>
+          <li> <a href="#"><img src="img/whatsapp.svg" alt="WhatsApp"></a></li>
+          <li> <a href="https://github.com/kleosilva"><img src="img/github.svg" alt="GittHub"></a></li>
+      </ul> 
+    </div>
+
+    <div class="portifolio box">
+        <h1 class="title"> Portifólio Kleo Silva </h1> 
+      <ul>
+<li>
+      <img src="img/foto1.jpg" alt="1">
+      <div>
+      <h2> Criação de Website </h2>
+      <p>
+        A criação de sites é o estágio mais importante numa estratégia de Marketing Digital. Para que você saiba como criar um para a sua empresa com foco em resultados de negócios, desta forma, você pode ter uma visão mais ampla do seu negócio.
+        Aqui, vou colocar alguns projetos que já criei e que estão sendo desenvolvidos.
+        https://github.com/kleosilva/lojaonline.git
+        https://github.com/kleosilva/aplicativocadstropet.git 
+      </p>
+    </div>
+</li>
+
+<li>
+      <img src="img/foto2.jpg" alt="2">
+      <div>
+      <h2> Designer de Interface </h2>
+      <p>
+        O objetivo do designer de interface  é tornar a interação de quem utiliza o mais simples e eficiente possível, ou seja, o usuário não precisa se preocupar com a estrutura do sites, apenas com o conteúdo. criar um sistema que não é apenas operacional mas também útil e adaptável para alterar as necessidades do usuários.
+      </p>
+    </div>
+</li>
+
+<li>
+    <img src="img/foto3.jpg" alt="3">
+    <div>
+    <h2> Identidade Visual </h2>
+    <p>
+        Identidade visual é o conjunto de elementos formais que representa visualmente, e de forma sistematizada, um nome, ideia, produto, empresa, instituição ou serviço. Esse conjunto de elementos costuma ter como base o logotipo, um símbolo visual que se complementa nos códigos de cores, das tipografias, nos grafismos, em personagens, nas personalidades e outros componentes que reforçam o conceito a ser comunicado através dessa imagem como o Slogan ou Tag lines, que cumprem este papel. Resumidamente a Identidade Visual é a imagem ampliada da marca, que é aquele que representa o seu negócio.
+    </p>
+  </div>
+</li>      
+   </ul>    
+  </div>
+  <p class="copyright"> @ 2022 Kleo Silva </p>
+  </div>  
+</body>
+</html>
